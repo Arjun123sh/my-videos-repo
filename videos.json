@@ -1,0 +1,15 @@
+{
+    "videos": [
+      {
+        "title": "My First Video",
+        "description": "This is a description of my first video.",
+        "url": "./videos/video1.mp4"
+      },
+      {
+        "title": "My Second Video",
+        "description": "This is a description of my second video.",
+        "url": "./videos/video2.mp4"
+      }
+    ]
+  }
+  
